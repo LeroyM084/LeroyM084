@@ -26,3 +26,5 @@ Passionné par le développement depuis toujours, j'aime apprendre et expérimen
 
 Si tu veux échanger sur un projet ou juste discuter tech :  
 📩 **mateoleroy084@proton.me**  
+
+![Funny GIF](assets/gif.gif)
