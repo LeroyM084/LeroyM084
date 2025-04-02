@@ -25,6 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leroym084&show_icons=true&locale=en" alt="leroym084" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leroym084&" alt="leroym084" /></p>
-
-<img align="center>![Funny GIF](assets/gif.gif)<img>
+<img align="center" src="assets/gif.gif" alt="Funny Gif" />
