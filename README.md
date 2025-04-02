@@ -27,4 +27,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leroym084&" alt="leroym084" /></p>
 
-![Funny GIF](assets/gif.gif)
+<img align="center>![Funny GIF](assets/gif.gif)<img>
