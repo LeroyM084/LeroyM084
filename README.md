@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matéo</h1>
 <h3 align="center">A french junior developper</h3>
 
-- 🔭 I’m currently working on **Mushroom Password**
 
 - 🌱 I’m currently learning **C# and Java !**
 
@@ -9,7 +8,7 @@
 
 - 👨‍💻 Most of my work is available on [https://portfolio.mleroy.fr](https://portfolio.mleroy.fr)
 
-- 📫 How to reach me **mateoleroy084@proton.me**
+- 📫 How to reach me **mateoleroy084@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mateoleroy084/](https://www.linkedin.com/in/mateoleroy084/)
 
